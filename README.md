@@ -1,9 +1,8 @@
 # cctools-build.linux
 A script for building iOS apps.
 
-### Dependencies
-#### pre dependencies
+### * Pre dependencies
 [`apple/llvm-clang >= 10.0`](https://github.com/apple/llvm-project)
 
-#### build dependencies
+### * Build dependencies
 `subversion >= 1.0`
